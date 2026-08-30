@@ -1,0 +1,12 @@
+# Runtime output generated beside the game executable
+BigfootTweaks_*.ini
+BigfootDump_*.txt
+UE4SS.log
+BigfootModKit-Backup-*/
+
+# Local debugging symbols are not required to run the release.
+*.pdb
+
+# Local operating-system files
+Thumbs.db
+.DS_Store
