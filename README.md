@@ -66,3 +66,8 @@ set BIGFOOT_DIR=D:\Games\Bigfoot\Bigfoot\Binaries\Win64
 Each row is independent. Grey means it has never been sent, green means the game currently holds that value, and orange means the value was sent and then edited again. **Reset** returns a row to the value initially read from the game, or to its neutral value when the game does not report one.
 
 [Detailed documentation](README-DETAILS.md) · [All releases](https://github.com/FajkPes/Bigfoot-Mod-Kit/releases)
+
+## Credits
+
+**Idea, concept and design:** FajkPes  
+**Coding:** ChatGPT Codex, Claude and Google Antigravity
